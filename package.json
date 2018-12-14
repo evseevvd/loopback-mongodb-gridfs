@@ -1,0 +1,21 @@
+{
+  "name": "loopback-mongodb-gridfs",
+  "version": "0.0.1-beta",
+  "description": "Loopback connector for the mongodb gridfs",
+  "main": "index.js",
+  "dependencies": {
+    "loopback-connector": "2.3.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gridfs",
+    "mongodb",
+    "loopback",
+    "file",
+    "storage"
+  ],
+  "author": "Evseev Vladimir",
+  "license": "ISC"
+}
