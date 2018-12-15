@@ -3,8 +3,13 @@
   "version": "0.0.1-beta",
   "description": "Loopback connector for the mongodb gridfs",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/evseevvd/loopback-mongodb-gridfs"
+  },
   "dependencies": {
-    "loopback-connector": "2.3.0"
+    "loopback-connector": "^4.5.1",
+    "strong-globalize": "^4.1.2"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
